@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 num_spins = 10000
 bet_amount = 1
-num_simulations = 5
+num_simulations = 5  
 
 numbers = np.arange(37) 
 reds = {1,3,5,7,9,12,14,16,18,19,21,23,25,27,30,32,34,36}
